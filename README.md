@@ -1,0 +1,1 @@
+An example Android calculator app for the HAEC Android course
